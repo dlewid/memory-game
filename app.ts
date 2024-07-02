@@ -1,3 +1,7 @@
+//Goal for tomorrow: get greeting from json file
+//Goal1: make the menu bar look better
+async function loadJsonFile(filename) {}
+
 document.addEventListener("DOMContentLoaded", (event) => {
   let dotMenu = document.getElementById("three-dots") as HTMLElement | null;
 
